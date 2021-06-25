@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/blog_d"
+        android:title="Blogs"
+        android:icon="@mipmap/ic_launcher_round">
+    </item>
+
+    <item
+        android:id="@+id/lit_book_d"
+        android:title="Litrature/Books"
+        android:icon="@mipmap/ic_launcher_round">
+    </item>
+    <item
+        android:id="@+id/fashion_d"
+        android:title="Fashion/Tradition"
+        android:icon="@mipmap/ic_launcher_round">
+
+    </item>
+
+    <item
+        android:id="@+id/connect_d"
+        android:title="Connect With Us"
+        android:icon="@mipmap/ic_launcher_round">
+    </item>
+
+
+</menu>
